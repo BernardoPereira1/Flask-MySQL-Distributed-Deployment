@@ -134,7 +134,7 @@ Se o mysql for aberto é porque a conexão foi concluida com sucesso e temos ace
 
    1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/BernardoPereira1/CompNuvem.git
+   git clone https://github.com/BernardoPereira1/Flask-MySQL-Distributed-Deployment.git
    cd CompNuvem
    ```
 
